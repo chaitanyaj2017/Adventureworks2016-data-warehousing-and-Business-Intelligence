@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MidtermProject", "MidtermProject\MidtermProject.dtproj", "{D22F6BEC-A6F0-4774-B2E0-299F6DE7581F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22F6BEC-A6F0-4774-B2E0-299F6DE7581F}.Development|Default.ActiveCfg = Development
+		{D22F6BEC-A6F0-4774-B2E0-299F6DE7581F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2B7BFCC-F661-45C1-BBFF-7A2DE8F04758}
+	EndGlobalSection
+EndGlobal
